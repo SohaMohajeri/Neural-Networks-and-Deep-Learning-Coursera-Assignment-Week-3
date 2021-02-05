@@ -4,7 +4,7 @@
 
 <div align="center"> 
 
-# Coursera Assignment Week 1
+# Coursera Assignment Week 3
 </div>
 
 <div align="center">
